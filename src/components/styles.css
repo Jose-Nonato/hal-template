@@ -1,0 +1,24 @@
+.container {
+    text-align: center;
+}
+.card {
+    margin: 15px;
+}
+.card img{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    margin: 0 auto;
+    box-shadow: 5px 5px 20px #000;
+}
+.card a {
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #FFF;
+    font-weight: 600;
+    font-size: 13px;
+    transition: .5s ease-in-out;
+}
+.card a:hover {
+    letter-spacing: 2px;
+}
